@@ -1,3 +1,11 @@
 # Editor Files
 *~
 TAGS
+.ensime
+
+# Editor Directories
+.ensime_cache
+
+# Build directories
+project
+target
